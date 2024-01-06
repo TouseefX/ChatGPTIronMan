@@ -15,6 +15,4 @@ pip install google-cloud-storage
 pip install google-cloud
 pip install vision
 pip install google-cloud-vision
-echo Installed Moudles.
-echo Please Run Main.py In VS Code
-pause
+echo you got apple fools:(7
